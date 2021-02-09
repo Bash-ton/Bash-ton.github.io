@@ -22,7 +22,7 @@ This application was made by 2 people <br/>
 * Bootstrap
 
 ---
-### Express + mongoDB API + React Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-Express) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
+### Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-Express) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
@@ -34,8 +34,8 @@ relevant persons for varios jobs.
 This application includes a frontend app made with React
 aswell as a REST API made with Express combined with a
 Mongodb document database.
-<br/>
-This project was made by three people.
+<br><br>
+This project was made by 3 people.
 #### Tools, methods and languages used in this project
 * Javascript
 * React
@@ -44,7 +44,7 @@ This project was made by three people.
 * Express
 * Node.js
 * MongoDB
-appExpress + mongoDB API + React
+
 
 ---
 ### [Economy app] (https://github.com/Bash-ton/economiWebApp) COMMING SOON! (Link to git repo)
@@ -61,7 +61,7 @@ a specific group pays evenly each month. The app stores all information<br/>
 in a database so that users can go back and see how much they spent during<br/>
 previous months<br/>
 <br/>
-This project was made by one person
+This project was made by 1 person
 #### Tools, methods and languages used in this project
 * Javascript
 * React
