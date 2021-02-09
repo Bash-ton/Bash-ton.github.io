@@ -1,18 +1,19 @@
-## Portfolio
+## Welcome to my E-Portfolio
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Spring chat + quiz app](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Recruitment app ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+appExpress + mongoDB API + React
 
 ---
-[Project 3 Title](http://example.com/)
+[Economy app](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
