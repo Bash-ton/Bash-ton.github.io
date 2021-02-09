@@ -23,7 +23,7 @@ This application was made by 2 people <br/>
 
 ---
 ### Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-RestAPI) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/loginAndItemAdd.gif?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
 account and thereafter submit a job application.
