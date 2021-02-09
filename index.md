@@ -4,13 +4,14 @@
 
 ### Projects
 
-[Spring chat + quiz app](/sample_page)
+### [Spring chat + quiz app](/sample_page) (Link to git repo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is a multiroom chat application. Clients choose a user name and <br/>
 which room to join. While inside a room perticipants can initiate a quiz <br/>
 and perform that quiz together.  <br/>
-This application was made by 2 persons <br/>
+<br/>
+This application was made by 2 people <br/>
 #### Tools, methods and languages used in this project
 * Java
 * STOMP
@@ -21,25 +22,32 @@ This application was made by 2 persons <br/>
 * Bootstrap
 
 ---
-[Recruitment app ](/pdf/sample_presentation.pdf)
+### Express + mongoDB API + React Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-Express) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
-This is a multiroom chat application. Clients choose a user name and <br/>
-which room to join. While inside a room perticipants can initiate a quiz <br/>
-and perform that quiz together.  <br/>
-This application was made by 2 persons <br/>
+This is a reqruitment application. A user can create an 
+account and thereafter submit a job application.
+An admin may later login and search and sort through
+applications based on competences to easier hire
+relevant persons for varios jobs.
+<br><br>
+This application includes a frontend app made with React
+aswell as a REST API made with Express combined with a
+Mongodb document database.
+<br/>
+This project was made by three people.
 #### Tools, methods and languages used in this project
-* Java
-* STOMP
-* Spring
 * Javascript
-* HTML
+* React
 * CSS
-* Bootstrap
+* HTML
+* Express
+* Node.js
+* MongoDB
 appExpress + mongoDB API + React
 
 ---
-[Economy app](http://example.com/)
+### [Economy app] (https://github.com/Bash-ton/economiWebApp) COMMING SOON! (Link to git repo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is an app that helps users take care of their economy<br/>
@@ -52,25 +60,19 @@ have spent so that users easily can keep track that every member of<br/>
 a specific group pays evenly each month. The app stores all information<br/>
 in a database so that users can go back and see how much they spent during<br/>
 previous months<br/>
-* Java
-* STOMP
-* Spring
+<br/>
+This project was made by one person
+#### Tools, methods and languages used in this project
 * Javascript
+* React
+* React redux and hooks
+* Firebase
 * HTML
 * CSS
-* Bootstrap
+* Firestore
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
