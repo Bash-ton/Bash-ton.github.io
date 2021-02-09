@@ -4,7 +4,7 @@
 
 ### Projects
 
-### [Spring chat + quiz app](/sample_page) (Link to git repo)
+### [Spring chat + quiz app](https://github.com/momahdi/spring-chat-quiz) (Link to git repo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is a multiroom chat application. Clients choose a user name and <br/>
