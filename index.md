@@ -22,7 +22,7 @@ This application was made by 2 people <br/>
 * Bootstrap
 
 ---
-### Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-Express) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
+### Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-RestAPI) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
@@ -47,7 +47,7 @@ This project was made by 3 people.
 
 
 ---
-### [Economy app] (https://github.com/Bash-ton/economiWebApp) COMMING SOON! (Link to git repo)
+### [Economy app](https://github.com/Bash-ton/economiWebApp) COMMING SOON! (Link to git repo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is an app that helps users take care of their economy<br/>
