@@ -42,7 +42,6 @@ This project was made by 3 people.
 * CSS
 * HTML
 * Express
-* Node.js
 * MongoDB
 
 
