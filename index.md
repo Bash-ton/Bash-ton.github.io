@@ -22,7 +22,7 @@ This application was made by 2 people <br/>
 * Bootstrap
 
 ---
-### Recruitment App [backend](https://github.com/Bash-ton/Arkitektur-IV1201-RestAPI) [frontend](https://github.com/momahdi/Recruitment-application) COMMING SOON! (Links to git repos)
+### Recruitment MERN App hosted on Heroku [git](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) (Link to git repo) COMMING SOON!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
@@ -43,6 +43,10 @@ This project was made by 3 people.
 * HTML
 * Express
 * MongoDB
+* Node
+* Formik
+* Yup
+* Passport.js
 
 
 ---
