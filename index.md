@@ -61,6 +61,7 @@ This project was made by 3 people.
 #### Tools, methods and languages used in this project
 * Javascript
 * React
+* Redux and hooks
 * CSS
 * HTML
 * Express
