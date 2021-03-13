@@ -22,14 +22,24 @@ This application was made by 2 people <br/>
 * Bootstrap
 
 ---
-### Recruitment MERN App hosted on Heroku [git](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) (Link to git repo) COMMING SOON!
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Recruitment MERN App hosted on Heroku [git](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) (Link to git repo) [app](https://react-express-applicationapp.herokuapp.com/) (link to running app on heroku)
+<img src="images/signup.gif?raw=true"/>
+<img src="images/applicationCreation.gif?raw=true"/>
+<img src="images/applicationAdmin.gif?raw=true"/>
+<img src="images/migrationoldDB.gif?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
 account and thereafter submit a job application.
 An admin may later login and search and sort through
 applications based on competences to easier hire
-relevant persons for varios jobs.
+relevant persons for varios jobs. Each application can be marked
+as accepted or rejected by an admin. There is also an option to
+migrate data about both users and applications from an old
+previously used SQL database, either through file upload containing
+SQL queries or by directly typing in the SQL code. The admin will
+be informed if any data needs more information to be compatible
+with the new database. The admin may then choose to add more SQL
+to complete the missing information or abort the migration.
 <br><br>
 This application includes a frontend app made with React
 aswell as a REST API made with Express combined with a
@@ -47,6 +57,7 @@ This project was made by 3 people.
 * Formik
 * Yup
 * Passport.js
+* Heroku
 
 
 ---
