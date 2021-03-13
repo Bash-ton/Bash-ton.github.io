@@ -23,9 +23,13 @@ This application was made by 2 people <br/>
 
 ---
 ### Recruitment MERN App hosted on Heroku [git](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) (Link to git repo) [app](https://react-express-applicationapp.herokuapp.com/) (link to running app on heroku)
+#### Sign up
 <img src="images/signup.gif?raw=true"/>
+#### Create application and apply
 <img src="images/applicationCreation.gif?raw=true"/>
+#### Admin login and handling of application submissions
 <img src="images/applicationAdmin.gif?raw=true"/>
+#### Migration of old SQL database to new document database
 <img src="images/migrationoldDB.gif?raw=true"/>
 #### Description
 This is a reqruitment application. A user can create an 
