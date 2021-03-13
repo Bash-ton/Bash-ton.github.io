@@ -5,7 +5,14 @@
 ### Projects
 ---
 ### [Economy app](https://github.com/Bash-ton/economiWebApp) COMMING SOON! (Link to git repo)
+#### Sign up
 <img src="images/loginAndItemAdd.gif?raw=true"/>
+#### Add items
+<img src="images/economyAddItems.gif?raw=true"/>
+#### Navigation, charts, tables and groups
+<img src="images/economyChartsItemsGroups.gif?raw=true"/>
+#### Mobile view
+<img src="images/economyMobile.gif?raw=true"/>
 #### Description
 This is an app that helps users take care of their economy<br/>
 Users can make an acount and thereafter join/create up to 4 groups<br/>
