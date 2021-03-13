@@ -27,7 +27,9 @@ This project was made by 1 person
 * HTML
 * CSS
 * Firestore
+
 ---
+
 ### Recruitment MERN App hosted on Heroku [git](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) (Link to git repo) [app](https://react-express-applicationapp.herokuapp.com/) (link to running app on heroku)
 #### Sign up
 <img src="images/signup.gif?raw=true"/>
@@ -68,7 +70,9 @@ This project was made by 3 people.
 * Yup
 * Passport.js
 * Heroku
+
 ---
+
 ### [Spring chat + quiz app](https://github.com/momahdi/spring-chat-quiz) (Link to git repo)
 <img src="images/springChatQuizApp.gif?raw=true"/>
 #### Description
@@ -85,13 +89,9 @@ This application was made by 2 people <br/>
 * HTML
 * CSS
 * Bootstrap
----
-
-
-
-
-
 
 ---
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
